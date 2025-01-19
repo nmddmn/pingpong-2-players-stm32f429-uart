@@ -1,0 +1,4 @@
+Application/User/generated/image_clay_theme_images_widgets_imageprogress_plain_thin_medium_active.o: \
+ C:/TouchGFXProjects/PingPongBlue/TouchGFX/generated/images/src/__generated/image_clay_theme_images_widgets_imageprogress_plain_thin_medium_active.cpp \
+ ../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Config.hpp:

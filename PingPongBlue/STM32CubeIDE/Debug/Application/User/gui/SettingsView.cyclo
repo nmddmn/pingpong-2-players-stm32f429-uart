@@ -1,0 +1,18 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:18:6:virtual void SettingsView::tearDownScreen()	1
+../../TouchGFX/gui/include/gui/settings_screen/SettingsView.hpp:11:13:SettingsView::~SettingsView()	1
+../../TouchGFX/gui/include/gui/settings_screen/SettingsView.hpp:11:13:virtual SettingsView::~SettingsView()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:5:1:SettingsView::SettingsView()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:75:6:void SettingsView::setBallSpeed(int)	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:23:6:virtual void SettingsView::ballSpeedIncreaseFunction()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:29:6:virtual void SettingsView::ballSpeedDecreaseFunction()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:82:6:void SettingsView::setBoardSpeed(int)	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:35:6:virtual void SettingsView::boardSpeedIncreaseFunction()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:41:6:virtual void SettingsView::boardSpeedDecreaseFunction()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:89:6:void SettingsView::setScoreLimit(int)	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:10:6:virtual void SettingsView::setupScreen()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:47:6:virtual void SettingsView::scoreLimitIncreaseFunction()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:52:6:virtual void SettingsView::scoreLimitDecreaseFunction()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:62:6:virtual void SettingsView::resetButtonHandleFuction()	1

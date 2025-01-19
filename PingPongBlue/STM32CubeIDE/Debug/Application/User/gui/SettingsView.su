@@ -1,0 +1,18 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:18:6:virtual void SettingsView::tearDownScreen()	0	static
+../../TouchGFX/gui/include/gui/settings_screen/SettingsView.hpp:11:13:SettingsView::~SettingsView()	8	static
+../../TouchGFX/gui/include/gui/settings_screen/SettingsView.hpp:11:13:virtual SettingsView::~SettingsView()	8	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:5:1:SettingsView::SettingsView()	8	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:75:6:void SettingsView::setBallSpeed(int)	16	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:23:6:virtual void SettingsView::ballSpeedIncreaseFunction()	0	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:29:6:virtual void SettingsView::ballSpeedDecreaseFunction()	0	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:82:6:void SettingsView::setBoardSpeed(int)	16	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:35:6:virtual void SettingsView::boardSpeedIncreaseFunction()	0	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:41:6:virtual void SettingsView::boardSpeedDecreaseFunction()	0	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:89:6:void SettingsView::setScoreLimit(int)	16	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:10:6:virtual void SettingsView::setupScreen()	8	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:47:6:virtual void SettingsView::scoreLimitIncreaseFunction()	0	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:52:6:virtual void SettingsView::scoreLimitDecreaseFunction()	0	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/settings_screen/SettingsView.cpp:62:6:virtual void SettingsView::resetButtonHandleFuction()	16	static

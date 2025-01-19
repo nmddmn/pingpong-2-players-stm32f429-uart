@@ -1,0 +1,24 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:71:6:virtual void GameView::tearDownScreen()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:208:6:virtual void GameView::handlePlayButton()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:213:6:virtual void GameView::handlePauseButton()	1
+../../TouchGFX/gui/include/gui/game_screen/GameView.hpp:11:13:GameView::~GameView()	1
+../../TouchGFX/gui/include/gui/game_screen/GameView.hpp:11:13:virtual GameView::~GameView()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:588:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:8:6:void srand_custom(uint32_t)	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:12:10:uint32_t rand_custom()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:17:14:unsigned int checksum(uint8_t*, int)	2
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:56:1:GameView::GameView()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:249:6:void GameView::encodeState(int)	2
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:273:6:void GameView::decodeState(int)	2
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:61:6:virtual void GameView::setupScreen()	2
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:192:6:void GameView::setScoreRed(int)	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:200:6:void GameView::setScoreBlue(int)	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:233:6:void GameView::resetPosition()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:225:6:void GameView::replayGame()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:218:6:virtual void GameView::handleReplayButton()	1
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:162:6:void GameView::updateScoreRed(int)	2
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:177:6:void GameView::updateScoreBlue(int)	2
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:295:6:void GameView::endGame(int)	2
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/game_screen/GameView.cpp:76:6:virtual void GameView::tickEvent()	29

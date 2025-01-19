@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/start_screen/StartPresenter.hpp:28:13:StartPresenter::~StartPresenter()	0	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/start_screen/StartPresenter.cpp:10:6:virtual void StartPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/start_screen/StartPresenter.hpp:28:13:virtual StartPresenter::~StartPresenter()	8	static
+../../TouchGFX/gui/include/gui/start_screen/StartPresenter.hpp:28:13:virtual void* StartPresenter::_ZThn4_N14StartPresenterD1Ev()	0	static
+C:/TouchGFXProjects/PingPongBlue/TouchGFX/gui/src/start_screen/StartPresenter.cpp:4:1:StartPresenter::StartPresenter(StartView&)	0	static

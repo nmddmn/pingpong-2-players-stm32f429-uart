@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.2">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_62WX" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">RED WIN</Translation>
+      </Text>
+      <Text Id="__SingleUse_7FXK" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">BLUE WIN</Translation>
+      </Text>
+      <Text Id="__SingleUse_GT9Q" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Board Speed</Translation>
+      </Text>
+      <Text Id="boardSpeedDefault" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">2</Translation>
+      </Text>
+      <Text Id="boardSpeed" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="scoreLimitDefault" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">10</Translation>
+      </Text>
+      <Text Id="scoreLimit" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="ballSpeedDefault" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">2</Translation>
+      </Text>
+      <Text Id="ballSpeed" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_IYC3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Score Limit</Translation>
+      </Text>
+      <Text Id="__SingleUse_VHSL" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Ball Speed</Translation>
+      </Text>
+      <Text Id="__SingleUse_G5OC" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_J6XR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_918H" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">&lt;&gt;</Translation>
+      </Text>
+      <Text Id="blueScore" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="redScore" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_HTTR" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Play</Translation>
+      </Text>
+      <Text Id="__SingleUse_87DP" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_66PK" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WidgetWildcardCharacters="0123456789 :APM" />
+  </Typographies>
+</TextDatabase>
