@@ -4,7 +4,7 @@ Pingpong 2 players with 2 stm32f429 connected using uart project for Embbeded Sy
 
 ## Installation
 
-Download the app at https://github.com/nmddmn/GoodbyeSE.
+Download the app at https://github.com/nmddmn/pingpong-2-players-stm32f429-uart.
 
 For updates and more information visit [our github](https://github.com/nmddmn/pingpong-2-players-stm32f429-uart).
 
